@@ -1,4 +1,14 @@
-[["01_equalities" {"__" [true
+[["00_elit" {"__" [4 8 12
+                                     (* x x)
+                                     [false false true false false]
+                                     ()
+                                     [:anything :goes :here]
+                                     (< x 31)
+                                     (* 10 x) (< x 4)
+                                     24
+                                     100
+                                     (count a) (count b)]}]
+ ["01_equalities" {"__" [true
                       2
                       5
                       true
